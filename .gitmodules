@@ -1,9 +1,0 @@
-[submodule "extensions/split"]
-	path = extensions/split
-	url = https://github.com/houqp/deck.split.js.git
-[submodule "extensions/blank"]
-	path = extensions/blank
-	url = https://github.com/knittl/deck.blank.js
-[submodule "extensions/toc"]
-	path = extensions/toc
-	url = https://github.com/mduaneh/deck.ext.js.git
