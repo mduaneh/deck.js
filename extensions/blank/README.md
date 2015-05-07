@@ -1,7 +1,10 @@
-deck.blank.js
-=============
+#deck.blank.js
 
-`deck.blank.js` is an extension for the *deck.js* presentation framework and enables users to blank the currently visible slide at the press of a button.
-This mimics behavior of several other popular presentation applications.
+Deck.blank.js is an extension for the deck.js framework to allow blanking of the current slide, to draw the attention back to the presenter
 
-Currently, users can make the presenation black by pressing `b` or `.`, and white by pressing `w`.
+At the moment, the key 'b' is hardcoded to blank/unblank.
+
+##Todo
+
+- make the blanking key configurable
+- make the background-color during blanking configurable
